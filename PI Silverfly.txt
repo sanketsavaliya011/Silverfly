@@ -1,5 +1,5 @@
 {
-	"adstatus": false,
+	"adstatus": true,
 	"specificad": true,
 	"alternatead": false,
 	"alternate_data": {
@@ -10,10 +10,10 @@
 	},
 	"Admob": {
 		"Admob_adstatus": true,
-		"Admob_Appopen": "ca-app-pub-3940256099942544/3419835294",
-		"Admob_Interstrial": "ca-app-pub-3940256099942544/1033173712",
-		"Admob_Native": "ca-app-pub-3940256099942544/2247696110",
-		"Admob_Banner": "ca-app-pub-3940256099942544/6300978111"
+		"Admob_Appopen": "/150790500,22477667340/27132_APP_OPEN",
+		"Admob_Interstrial": "/150790500,22477667340/27132_APP_INTER",
+		"Admob_Native": "/150790500,22477667340/27132_APP_NATIVE",
+		"Admob_Banner": "/150790500,22477667340/27132_APP_BANNER_300x250"
 	},
 	"Facebook": {
 		"FB_adstatus": false,
@@ -37,8 +37,8 @@
 	"NativeBlink": true,
 	"NativeBanner": true,
 	"AdDialog": true,
-	"BackAd": true,
+	"BackAd": false,
 	"BackAdPlatform": "Facebook",
-	"ExtraScreen": "0",
+	"ExtraScreen": "3",
 	"PrivacyPolicy": ""
 }
