@@ -10,10 +10,10 @@
 	},
 	"Admob": {
 		"Admob_adstatus": true,
-		"Admob_Appopen": "/22349270898,22827158175/593d1851-b0e3-4133-a870-af784dba48f6/b4ed18ff-7b76-44a5-be62-a929fcc08276/b4ed18ff-7b76-44a5-be62-a929fcc08276-last",
-		"Admob_Interstrial": "/22349270898,22827158175/593d1851-b0e3-4133-a870-af784dba48f6/25d75229-9306-41ab-908d-e9fdcbbed2c2/25d75229-9306-41ab-908d-e9fdcbbed2c2-last",
-		"Admob_Native": "/22349270898,22827158175/593d1851-b0e3-4133-a870-af784dba48f6/bdfab561-b722-4e6b-8fe4-479abce6fc6c/bdfab561-b722-4e6b-8fe4-479abce6fc6c-last",
-		"Admob_Banner": "/22349270898,22827158175/593d1851-b0e3-4133-a870-af784dba48f6/b88ea390-1b98-40c7-9c73-ea88cd7ba288/b88ea390-1b98-40c7-9c73-ea88cd7ba288-last"
+		"Admob_Appopen": "/29636627,22479114759/com.pi.pi_crypto_s_app_open_1",
+		"Admob_Interstrial": "/29636627,22479114759/com.pi.pi_crypto_s_interstitial_1",
+		"Admob_Native": "/29636627,22479114759/com.pi.pi_crypto_s_native_1",
+		"Admob_Banner": "/29636627,22479114759/com.pi.pi_crypto_s_banner_1"
 	},
 	"Facebook": {
 		"FB_adstatus": false,
