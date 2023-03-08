@@ -28,10 +28,10 @@
 		"Applovin_Banner": ""
 	},
 	"AdCounter": {
-		"Inter_count": 13,
-		"Native_Count": 13,
-		"Banner_Count": 13,
-		"Back_Inter_count":13,
+		"Inter_count": 0,
+		"Native_Count": 0,
+		"Banner_Count": 0,
+		"Back_Inter_count": 0,
 		"onResumeOpenAd": true
 	},
 	"NativeBlink": true,
@@ -39,6 +39,6 @@
 	"AdDialog": true,
 	"BackAd": false,
 	"BackAdPlatform": "Facebook",
-	"ExtraScreen": "0",
+	"ExtraScreen": "3",
 	"PrivacyPolicy": ""
 }
