@@ -9,11 +9,11 @@
 		"Banner": "Admob"
 	},
 	"Admob": {
-		"Admob_adstatus": true,
-		"Admob_Appopen": "/29636627,22479114759/com.pi.pi_crypto_s_app_open_1",
-		"Admob_Interstrial": "/29636627,22479114759/com.pi.pi_crypto_s_interstitial_1",
-		"Admob_Native": "/29636627,22479114759/com.pi.pi_crypto_s_native_1",
-		"Admob_Banner": "/29636627,22479114759/com.pi.pi_crypto_s_banner_1"
+		"Admob_adstatus": false,
+		"Admob_Appopen": "",
+		"Admob_Interstrial": "",
+		"Admob_Native": "",
+		"Admob_Banner": ""
 	},
 	"Facebook": {
 		"FB_adstatus": false,
